@@ -1,0 +1,2 @@
+# Hall_Management_System
+An automated management system for Hall of Residence. It is a website through which students can sign up and use features like submitting leave-form,complaint-form to the admin which has to be done manually at present.  Additionally students can view notices published by the admin and give their attendance in the website.  The admin or employee will view student's leave form to approve their leave request and also view the complaints.
